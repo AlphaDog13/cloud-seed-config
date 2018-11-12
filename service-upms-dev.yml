@@ -61,3 +61,5 @@ spring:
       filter:
         stat:
           log-slow-sql: true
+
+configValue: cyberunner
